@@ -3,8 +3,7 @@
 This is a collection of questions (and answers) to problems that arise with using
 [TopoStats](https://github.com/AFM-SPM/TopoStats/) software for processing Atomic Force Microscopy images.
 
-If you have questions that
-are not answered here please consider starting a [new
+If you have questions that are not answered here please consider starting a [new
 discussion](https://github.com/AFM-SPM/TopoStats/discussions/new?category=q-a) in the TopoStats Discussion section of
 the GitHub repository. Developers will endeavour to help you resolve your problem and it may get added to this page.
 
